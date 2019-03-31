@@ -3,15 +3,29 @@ Edita los colores de termux y algo de $
 
 
 ### INSTALACION ### 
-bash termux.sh
 
-*ejecucion* 
-### con cualquiera de estos ejecuturas banner
+- apt update&&pkg upgrade
 
-- bash/sh/./
+- pkg install bash -y
 
-
+- pkg install sh -y
 
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-By: CIA : TeamSlow
+### EJECUCION ###
+(DAN PERMISOS)
+
+- chmod +x termux.sh
+         O
+- chmod 777 termux.sh         
+
+('con cualquiera de estos ejecuturas baner
+
+- bash/sh/./ ')
+
+
+
+
+
+### By: CIA : TeamSlow ###
