@@ -6,7 +6,7 @@ Edita los colores de termux y algo de $
 bash termux.sh
 
 *ejecucion* 
-con cualquiera de estos ejecuturas banner
+### con cualquiera de estos ejecuturas banner
 
 - bash/sh/./
 
