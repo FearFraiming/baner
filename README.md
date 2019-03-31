@@ -20,7 +20,7 @@ Edita los colores de termux y algo de $
          O
 - chmod 777 termux.sh         
 
-('con cualquiera de estos ejecuturas baner
+('con cualquiera de estos ejecutura baner
 
 - bash/sh/./ ')
 
