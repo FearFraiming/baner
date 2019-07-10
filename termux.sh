@@ -1,6 +1,8 @@
+#!/bin/bash
+
 apt update&&pkg upgrede&&pkg install figlet -y
 
-figlet " CIA "
+figlet " BANER "
 
 cd 
 
@@ -17,9 +19,9 @@ chmod +x *
 
 bash install.sh
 
-echo -e "#########################"
-echo -e "# Porfavor resetea la app #"
-echo -e "##########################"
+echo -e $bu "##############################"
+echo -e $bu "# Porfavor resetea tu terminal #"
+echo -e $bu "##############################"
 
 figlet "By: CIA "
 echo -e "sh install.sh"
