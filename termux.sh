@@ -24,8 +24,9 @@ echo -e $bu "# Porfavor resetea tu terminal #"
 echo -e $bu "##############################"
 
 figlet "By: CIA "
-echo -e "sh install.sh"
+echo -e $g "FACEBOOK : Sentinel Society "$white
+echo -e $kiddies "============================"
 echo -e $bu "Bye bye...!!"$white
-sleep 0.3
+sleep 0.5
 
 
