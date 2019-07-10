@@ -1,7 +1,7 @@
 # baner
 Edita los colores de termux y algo de $
 
-
+==============================
 ### INSTALACION ### 
 
 - apt update&&pkg upgrade
@@ -10,7 +10,7 @@ Edita los colores de termux y algo de $
 
 - pkg install sh -y
 
-===========================
+==============================
 
 ### EJECUCION ###
 (DAN PERMISOS)
@@ -24,7 +24,7 @@ Edita los colores de termux y algo de $
 - bash/sh/./ ')
 
 
-
+===============================
 
 
 ### By: CIA : 
