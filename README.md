@@ -20,7 +20,6 @@ Edita los colores de termux y algo de $
 (//con cualquiera de estos ejecutura baner//)
 
 - bash termux.sh /
-- sh termux.sh /
 - ./termux.sh /
 
 
