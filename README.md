@@ -29,4 +29,4 @@ Edita los colores de termux y algo de $
 
 
 ### By: CIA : 
-//FACEBOOK : Sentinel Society ###
+//FACEBOOK : Sentinel Society//
