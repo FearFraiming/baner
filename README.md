@@ -12,12 +12,13 @@ Edita los colores de termux y algo de $
 
 (PERMISOS)
 - chmod +x termux.sh
+
 =============================
 
 ### EJECUCION ###
 
-('con cualquiera de estos ejecutura baner
-[- bash/sh/./ ] ')
+(//con cualquiera de estos ejecutura baner//
+[- bash/sh/./ ] )
 
 
 =============================
