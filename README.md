@@ -15,13 +15,11 @@ Edita los colores de termux y algo de $
 ### EJECUCION ###
 (DAN PERMISOS)
 
-- chmod +x termux.sh
-         O
-- chmod 777 termux.sh         
+- chmod +x banner.sh;
 
 ('con cualquiera de estos ejecutura baner
 
-- bash/sh/./ ')
+-[ bash/sh/./ ] ')
 
 
 =============================
