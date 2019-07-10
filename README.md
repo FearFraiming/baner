@@ -10,15 +10,14 @@ Edita los colores de termux y algo de $
 
 - pkg install sh -y
 
+(PERMISOS)
+- chmod +x termux.sh
 =============================
 
 ### EJECUCION ###
-(DAN PERMISOS)
-
-- chmod +x termux.sh;
 
 ('con cualquiera de estos ejecutura baner
--  bash/sh/./ ] ')
+[- bash/sh/./ ] ')
 
 
 =============================
