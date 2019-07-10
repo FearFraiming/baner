@@ -25,7 +25,7 @@ echo -e $bu "##############################"
 
 figlet "By: CIA "
 echo -e "sh install.sh"
-
+echo -e $bu "Bye bye...!!"$white
 sleep 0.3
 
 
