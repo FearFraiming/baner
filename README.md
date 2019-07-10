@@ -10,8 +10,7 @@ Edita los colores de termux y algo de $
 
 - pkg install sh -y
 
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+===========================
 
 ### EJECUCION ###
 (DAN PERMISOS)
@@ -29,4 +28,4 @@ Edita los colores de termux y algo de $
 
 
 ### By: CIA : 
-//FACEBOOK : Sentinel Society//
+// FACEBOOK : Sentinel Society //
