@@ -28,4 +28,5 @@ Edita los colores de termux y algo de $
 
 
 
-### By: CIA : TeamSlow ###
+### By: CIA : 
+Facebook : Sentinel Society ###
