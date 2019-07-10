@@ -17,10 +17,10 @@ Edita los colores de termux y algo de $
 
 ### EJECUCION ###
 
-(//con cualquiera de estos ejecutura baner//
+(//con cualquiera de estos ejecutura baner//)
 -bash termux.sh /
 -sh termux.sh/
--./termux.sh )
+-./termux.sh 
 
 
 =============================
