@@ -18,7 +18,7 @@ Edita los colores de termux y algo de $
 ### EJECUCION ###
 
 (//con cualquiera de estos ejecutura baner//
-[ ·bash/·sh/·./ ] )
+[ ·bash termux.sh /·sh termux.sh/"./termux.sh ] )
 
 
 =============================
